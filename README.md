@@ -35,4 +35,4 @@ A base do desafio foi criar uma ferramenta no Excel que ajude a organizar e reun
 
 - [![Static Badge](https://img.shields.io/badge/Bootcamp-SANTANDER-red)](https://web.dio.me/home)
 
-- [![Static Badge](https://img.shields.io/badge/GitProfessor-FelipeAguiar-black)](https://github.com/felipeAguiarCode)
+- [![Static Badge](https://img.shields.io/badge/GitHubProfessor-FelipeAguiar-black)](https://github.com/felipeAguiarCode)
