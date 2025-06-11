@@ -1,7 +1,7 @@
 
 # SANTANDER - Excel com Inteligência Artificial
 ![Logo](https://assets.dio.me/FanVRCIEnVkijATRji1xaIQBPRiHYaj-wmgp_fkyDyc/f:webp/h:120/q:80/L3RyYWNrcy9lYzk3OWZkYy03ZDVlLTQxOGYtOTQ1My05YzU4NDI4NTFmMmIucG5n)
-## DESAFIO 2 - Um Organizador de Declaração de Imposto de Renda
+## DESAFIO 2 - Organizador de Declaração de Imposto de Renda
 
 Repositório voltado a conclusão do segundo módulo do Bootcamp Santander - Excel com Inteligência Artificial.
 
